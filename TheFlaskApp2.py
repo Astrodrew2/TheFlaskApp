@@ -12,7 +12,7 @@ REPO_PATH = './repo'  # Local clone of your GitHub repository
 PICKLE_FILE = "drink_data.pkl"
 
 # GitHub repo URL (make sure the repo is public or the user has access)
-REPO_URL = "https://github.com/yourusername/yourrepo.git"
+REPO_URL = "https://github.com/Astrodrew2/TheFlaskApp.git"
 
 # Load data from the pickle file
 def load_data():
